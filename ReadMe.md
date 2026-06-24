@@ -45,6 +45,7 @@ Use the command below:
 
 
 EXAMPLE OUTPUT:
+
 Scanning S3 bucket security checks...
  [RISK] S3 Bucket 'michael-security-test-jn2026' has public access enabled.
  [RISK] S3 Bucket 'michael-security-test-jn2026' does not have versioning enabled.
